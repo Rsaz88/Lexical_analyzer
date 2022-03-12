@@ -136,7 +136,7 @@ public class lexicalAnalyzer
   }  
 
 
- static String ConcatChars(){   // this method to print the character in lexeme as string
+ static String ConcatChars(){   // a function to print the character in lexeme as string
         String LexmeString = "";
         for(int i = 0; i < lexeme.length; i++){
             if(lexeme[i] == '\u0000')
