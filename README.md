@@ -23,7 +23,8 @@ This code takes a text file as an input and outputs the anlyzed expressions :
 ### simple example input :
 do good for people while they are still alive 
 
-### example output : 
+### example output :
+
  Next token is 12 Next lexeme is do
  Next token is 11 Next lexeme is good
  Next token is 12 Next lexeme is for
