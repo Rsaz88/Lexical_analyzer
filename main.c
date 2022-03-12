@@ -50,7 +50,7 @@ char strings[8][7] = {"for", "if", "else", "while", "do", "int", "float", "switc
 
 int i ; 
 
-/* Function declarations */
+/* Function declarations*/
 
 void addChar();
 
@@ -90,7 +90,7 @@ int lex();
 
 #define RIGHT_PAREN 26
 
-/******************************************************/
+/*****************************************************/
 
 /* modification step 1 :ading new Token codes  */
 
