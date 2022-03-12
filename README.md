@@ -17,3 +17,20 @@ Modify the lexical analyzer from the book (section 4.2) to recognize additional 
 
 ## Part2 : 
 Implement the resulting lexical analyzer from part#1 in Java
+
+### How can I run this code ?
+This code takes a text file as an input and outputs the anlyzed expressions : 
+### simple example input :
+do good for people while they are still alive 
+
+### example output : 
+ Next token is 12 Next lexeme is do
+ Next token is 11 Next lexeme is good
+ Next token is 12 Next lexeme is for
+ Next token is 11 Next lexeme is people
+ Next token is 12 Next lexeme is while
+ Next token is 11 Next lexeme is they
+ Next token is 11 Next lexeme is are
+ Next token is 11 Next lexeme is still
+ Next token is 11 Next lexeme is alive
+
