@@ -253,6 +253,9 @@ int  lex() {
       /****************************************************/
      /* Checking for list of reserved words */
      
+     /* function strcmp takes two strings as input 
+        and outpts 0 if they are similar"*/
+        
       if (strcmp(lexeme,strings[0]) == 0){
         nextToken = KEYWORD; 
       }
@@ -281,7 +284,7 @@ int  lex() {
          nextToken = IDENT; 
       }
       
-      /* for loop might be better for  a more compact code*/
+      /* for loop might be better for more compact code*/
       /*
       for (i = 0; i < 9; i++) {
           if (strcmp(lexeme, strings[i]) == 0) {
