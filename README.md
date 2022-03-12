@@ -24,11 +24,10 @@ This code takes a text file as an input and outputs the anlyzed expressions :
 do good for people while they are still alive 
 
 ### example output :
-
- Next token is 12 Next lexeme is do
- Next token is 11 Next lexeme is good
- Next token is 12 Next lexeme is for
- Next token is 11 Next lexeme is people
+ Next token is 12 Next lexeme is do <br/>
+ Next token is 11 Next lexeme is good <br/>
+ Next token is 12 Next lexeme is for <br/>
+ Next token is 11 Next lexeme is people <br/> 
  Next token is 12 Next lexeme is while
  Next token is 11 Next lexeme is they
  Next token is 11 Next lexeme is are
