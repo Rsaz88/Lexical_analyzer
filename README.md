@@ -28,9 +28,9 @@ do good for people while they are still alive
  Next token is 11 Next lexeme is good <br/>
  Next token is 12 Next lexeme is for <br/>
  Next token is 11 Next lexeme is people <br/> 
- Next token is 12 Next lexeme is while
- Next token is 11 Next lexeme is they
- Next token is 11 Next lexeme is are
- Next token is 11 Next lexeme is still
+ Next token is 12 Next lexeme is while <br/>
+ Next token is 11 Next lexeme is they <br/>
+ Next token is 11 Next lexeme is are <br/>
+ Next token is 11 Next lexeme is still <br/>
  Next token is 11 Next lexeme is alive
 
