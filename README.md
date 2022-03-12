@@ -1,5 +1,5 @@
 # Lexical_analyzer
-This is a simple lexical analyzer borrowed and edited from Concepts of Programming Languages 11th Edition and edited to recognize the following list of reserved words and return their respective token codes:
+This is a simple lexical analyzer borrowed from Concepts of Programming Languages 11th Edition and edited to recognize the following list of reserved words and return their respective token codes:
 
 for (FOR_CODE, 30),
 if (IF_CODE, 31), 
