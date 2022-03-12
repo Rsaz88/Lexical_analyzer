@@ -12,6 +12,8 @@ switch (SWITCH_CODE, 37)implemented
 
 The implementation is splitted into 2 parts as follwos :
 
-## Part1 : Modify the lexical analyzer from the book (section 4.2) to recognize additional reserved words and return their respective token codes
+## Part1 : 
+Modify the lexical analyzer from the book (section 4.2) to recognize additional reserved words and return their respective token codes
 
-## Part2 : Implement the resulting lexical analyzer from part#1 in Java
+## Part2 : 
+Implement the resulting lexical analyzer from part#1 in Java
