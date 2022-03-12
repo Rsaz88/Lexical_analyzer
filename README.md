@@ -8,4 +8,10 @@ while (WHILE_CODE, 33),
 do (DO_CODE, 34), 
 int (INT_CODE, 35),
 float (FLOAT_CODE, 36),
-switch (SWITCH_CODE, 37)implemented  
+switch (SWITCH_CODE, 37)implemented
+
+The implementation is splitted into 2 parts as follwos :
+
+## Part1 : Modify the lexical analyzer from the book (section 4.2) to recognize additional reserved words and return their respective token codes
+
+## Part2 : Implement the resulting lexical analyzer from part#1 in Java
